@@ -126,9 +126,9 @@ $$\gamma = \sqrt{(\kappa^*)^2+2\sigma^2}, \quad \kappa^* = \kappa+\lambda\sigma,
 
 **Continuously-compounded yield** (the core prediction formula):
 
-$$\boxed{y(\tau;\,r_t) = \underbrace{f(\tau)}_{\text{base level}} + \underbrace{g(\tau)}_{\text{sensitivity}}\cdot r_t}$$
+$$ \boxed{y(\tau;\,r_t) = \underbrace{f(\tau)}_{\text{base level}} + \underbrace{g(\tau)}_{\text{sensitivity}}\cdot r_t} $$
 
-where $$f(\tau) = -\log A(\tau)^{2\kappa\theta/\sigma^2}/\tau$ and $g(\tau) = B(\tau)/\tau$$.
+where $f(\tau) = -\log A(\tau)^{2\kappa\theta/\sigma^2}/\tau$ and $g(\tau) = B(\tau)/\tau$.
 
 ---
 
